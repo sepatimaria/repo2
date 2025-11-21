@@ -7,8 +7,8 @@
     </head>
     <body>
         <h1>HELLO WORLD!</h1>
-        <p>lorem ipsum</p>
-        <p>lorem ipsum</p>
-        <p>lorem ipsum</p>
+        <p>latihan git</p>
+        <p>git push</p>
+        <p>git pull</p>
     </body>
 </html>
